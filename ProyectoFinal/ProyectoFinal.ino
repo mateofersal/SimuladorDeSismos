@@ -17,7 +17,7 @@ int estadoDeSistema = 0
 
 
 
-
+// hola ricardo ya puedo editarlo
 //Sistema bluetooth
 
 
